@@ -1,0 +1,68 @@
+.form-todo{
+ display: flex;
+ flex-direction: column;
+ align-items: center;
+ justify-content: center;
+ margin-top: 20px;
+}
+.form-todo form{
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  margin-top: 30px;
+}
+li{
+  list-style: none;
+  margin-top: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid lightgreen;
+  border-radius: 6px;
+  background-color: lightgreen;
+  width: 450px;
+  margin-top: 10px;
+  padding: 3px 10px;
+}
+ul{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+ 
+}
+.check{
+  background-color:azure;
+  border-color: transparent;
+  padding: 5px;
+  margin-left: 30px;
+  width: 100px;
+  color: black;
+  font-size: 18px;
+}
+.del{
+  background-color:antiquewhite;
+  border-color: transparent;
+  padding: 5px;
+  width: 100px;
+  color: black;
+  font-size: 18px;
+  margin-left: 30px;
+}
+
+.messageInp{
+  visibility: hidden;
+  height: 22px;
+  display: flex;
+  align-items: center;
+  color: red;
+}
+.seBox{
+  margin: 50px auto;
+  width: 500px;
+  
+}
+.search{
+
+  width: 400px;
+}
