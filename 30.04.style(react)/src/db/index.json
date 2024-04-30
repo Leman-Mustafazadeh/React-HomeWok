@@ -1,0 +1,54 @@
+{
+    "items":[
+        {
+        "id":1,
+        "image":"https://preview.colorlib.com/theme/abcbook/assets/img/gallery/best_selling7.jpg.webp",
+        "title":"Moon Dance",
+        "author":"J. R Rain",
+        "genre":" Thriller",
+        "price":50
+    },
+    {
+        "id":2,
+        "image":"https://preview.colorlib.com/theme/abcbook/assets/img/gallery/best_selling8.jpg.webp",
+        "title":"Moon Dance",
+        "author":"J. R Rain",
+        "genre":" Horror",
+        "price":50
+    },
+    {
+        "id":3,
+        "image":"https://preview.colorlib.com/theme/abcbook/assets/img/gallery/best_selling6.jpg.webp",
+        "title":"Roon Dance",
+        "author":"J. R Rain",
+        "genre":" Thriller",
+        "price":50
+    },
+    {
+        "id":4,
+        "image":"https://preview.colorlib.com/theme/abcbook/assets/img/gallery/best_selling4.jpg.webp",
+        "title":" Tance",
+        "author":"J. R Rain",
+        "genre":" Science Fiction",
+        "price":50
+    },
+    {
+        "id":5,
+        "image":"https://preview.colorlib.com/theme/abcbook/assets/img/gallery/best_selling9.jpg.webp",
+        "title":"Boon Dance",
+        "author":"J. R Rain",
+        "genre":" History",
+        "price":50
+    },
+    {
+        "id":6,
+        "image":"https://preview.colorlib.com/theme/abcbook/assets/img/gallery/best_selling2.jpg.webp",
+        "title":"Coon Dance",
+        "author":"J. R Rain",
+        "genre":" Horror",
+        "price":50
+    }
+]
+}
+
+
