@@ -1,0 +1,290 @@
+{
+  "artist": [
+    {
+      "imgSrc": "https://loremflickr.com/640/480",
+      "name": "name 2",
+      "genre": "genre 2",
+      "country": "country 2",
+      "age": 10,
+      "info": "info 2",
+      "isVerified": "isVerified 2",
+      "songs": [
+        "qE.b:SYQ2%",
+        54331,
+        20376,
+        "'|ZA3WL\\`0",
+        50795,
+        "nCK(BUAx?_",
+        64213,
+        22801,
+        55800,
+        66609
+      ],
+      "id": "2"
+    },
+    {
+      "imgSrc": "https://loremflickr.com/640/480",
+      "name": "name 3",
+      "genre": "genre 3",
+      "country": "country 3",
+      "age": 81,
+      "info": "info 3",
+      "isVerified": "isVerified 3",
+      "songs": [
+        "*<V'qu8ER,",
+        32725,
+        "D86#4XYO&^",
+        "ePkO)CRP<5",
+        "VJ,;3Gc:QJ",
+        90044,
+        "Xb?r6bh_,G",
+        "WvOe(]ZXc\"",
+        84918,
+        94918
+      ],
+      "id": "3"
+    },
+    {
+      "imgSrc": "https://loremflickr.com/640/480",
+      "name": "name 4",
+      "genre": "genre 4",
+      "country": "country 4",
+      "age": 12,
+      "info": "info 4",
+      "isVerified": "isVerified 4",
+      "songs": [
+        12985,
+        "U.qr8GXyJg",
+        "nnc,/%0XX\\",
+        ":exk3=Sc|S",
+        "u;Ug_`acZ'",
+        97637,
+        "+.{Sp?Xm/x",
+        18438,
+        59382,
+        "WY\"2\\[MX&I"
+      ],
+      "id": "4"
+    },
+    {
+      "imgSrc": "https://loremflickr.com/640/480",
+      "name": "name 5",
+      "genre": "genre 5",
+      "country": "country 5",
+      "age": 78,
+      "info": "info 5",
+      "isVerified": "isVerified 5",
+      "songs": [
+        2244,
+        "TE(@_=2PbD",
+        59834,
+        27945,
+        "2zX99\\\"ewC",
+        "HCm0wcC1yz",
+        "p\"k@[kJ$KP",
+        "qrJ@l5?QX4",
+        "}ih'o!=jZF",
+        71735
+      ],
+      "id": "5"
+    },
+    {
+      "imgSrc": "https://loremflickr.com/640/480",
+      "name": "name 6",
+      "genre": "genre 6",
+      "country": "country 6",
+      "age": 50,
+      "info": "info 6",
+      "isVerified": "isVerified 6",
+      "songs": [
+        43053,
+        83157,
+        "['7duLBBw*",
+        90532,
+        97949,
+        "k1G<T4Y$9a",
+        "!KX5Kz8'h:",
+        94317,
+        73698,
+        "\"nM85m?;ia"
+      ],
+      "id": "6"
+    },
+    {
+      "imgSrc": "https://loremflickr.com/640/480",
+      "name": "name 7",
+      "genre": "genre 7",
+      "country": "country 7",
+      "age": 88,
+      "info": "info 7",
+      "isVerified": "isVerified 7",
+      "songs": [
+        36676,
+        "T$'kbpV(7_",
+        "h%]:pqoaDz",
+        58534,
+        14999,
+        "\".v7([?gy\"",
+        82689,
+        70676,
+        "oNrn\".:,y^",
+        19333
+      ],
+      "id": "7"
+    },
+    {
+      "imgSrc": "https://loremflickr.com/640/480",
+      "name": "name 8",
+      "genre": "genre 8",
+      "country": "country 8",
+      "age": 1,
+      "info": "info 8",
+      "isVerified": "isVerified 8",
+      "songs": [
+        ",bdp*Rmw:&",
+        "WlEV]$c3\\V",
+        "y:A9tb[=Cp",
+        59194,
+        "U'B{'q8PpT",
+        "3(E}cqXJ!d",
+        14927,
+        17242,
+        "s_c-!b*]]W",
+        "S9hDx2`m/h"
+      ],
+      "id": "8"
+    },
+    {
+      "imgSrc": "https://loremflickr.com/640/480",
+      "name": "name 9",
+      "genre": "genre 9",
+      "country": "country 9",
+      "age": 62,
+      "info": "info 9",
+      "isVerified": "isVerified 9",
+      "songs": [
+        "WfcVG{56_a",
+        9043,
+        90502,
+        "ReVyQea*%<",
+        26218,
+        "a2_nekAyDE",
+        "a|di\\y[VbP",
+        26428,
+        "qPqzY`0yx\"",
+        "Nf<PzG/HZ("
+      ],
+      "id": "9"
+    },
+    {
+      "imgSrc": "https://loremflickr.com/640/480",
+      "name": "name 10",
+      "genre": "genre 10",
+      "country": "country 10",
+      "age": 70,
+      "info": "info 10",
+      "isVerified": "isVerified 10",
+      "songs": [
+        "s@%vNbgy'%",
+        36146,
+        "!%uiCeb+:/",
+        90593,
+        "tp=HzJK|.c",
+        81138,
+        "Se&#7|64p&",
+        1761,
+        "_7pG]BYi03",
+        80962
+      ],
+      "id": "10"
+    },
+    {
+      "imgSrc": "https://loremflickr.com/640/480",
+      "name": "name 11",
+      "genre": "genre 11",
+      "country": "country 11",
+      "age": 84,
+      "info": "info 11",
+      "isVerified": "isVerified 11",
+      "songs": [
+        "d^8o.`}5y4",
+        "`/[Z;iyA;V",
+        98765,
+        "*}^H84G}j@",
+        ".^<3X+5N^M",
+        "R*IE`KwfD,",
+        6442,
+        24022,
+        "C5\\Rqr_{C8",
+        44921
+      ],
+      "id": "11"
+    },
+    {
+      "imgSrc": "https://loremflickr.com/640/480",
+      "name": "name 12",
+      "genre": "genre 12",
+      "country": "country 12",
+      "age": 60,
+      "info": "info 12",
+      "isVerified": "isVerified 12",
+      "songs": [
+        69288,
+        17293,
+        12705,
+        "{tPS&wy>(|",
+        43183,
+        "bp@}LwA,Td",
+        39615,
+        "\\t>Bgq]dd_",
+        34562,
+        49163
+      ],
+      "id": "12"
+    },
+    {
+      "imgSrc": "https://loremflickr.com/640/480",
+      "name": "name 13",
+      "genre": "genre 13",
+      "country": "country 13",
+      "age": 95,
+      "info": "info 13",
+      "isVerified": "isVerified 13",
+      "songs": [
+        13700,
+        17038,
+        26004,
+        2125,
+        "m&&L?B</we",
+        67875,
+        "AMl-rNoZ8P",
+        68834,
+        1124,
+        "RM@6)9LW\"6"
+      ],
+      "id": "13"
+    },
+    {
+      "imgSrc": "https://loremflickr.com/640/480",
+      "name": "name 14",
+      "genre": "genre 14",
+      "country": "country 14",
+      "age": 10,
+      "info": "info 14",
+      "isVerified": "isVerified 14",
+      "songs": [
+        ">ly;!uP2[V",
+        50143,
+        "<#C9/YVitd",
+        "pC-q_M}{,7",
+        "qDzeqmK^|O",
+        4385,
+        "p@ue&^=4F4",
+        "uP.;cgZl0c",
+        83397,
+        "4E=y7`xm\\V"
+      ],
+      "id": "14"
+    }
+  ]
+}
