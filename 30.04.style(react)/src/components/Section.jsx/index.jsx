@@ -45,7 +45,7 @@ const Section = ({items,setItems}) => {
           </div>
         </div>
 
-        <div className="row">
+        <div className="d-flex gap-3">
           {filterItems(filter).map((el, idx) => (
             <div className={styled["moon-head"]} key={idx}>
               <img src={el.image} alt="" />
